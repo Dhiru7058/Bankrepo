@@ -4,6 +4,8 @@ public class A{
 	{
 
 	Syatem.out.println("Hello");
+	
+	Syatem.out.println("Hello CJC ...");
 
 	}
 
